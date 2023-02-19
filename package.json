@@ -1,0 +1,22 @@
+{
+  "name": "caballo-vivo-devtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "prettier": "^2.8.4"
+  },
+  "scripts": {
+    "format": "prettier -w ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4",
+    "@commitlint/prompt-cli": "^17.4.4",
+    "husky": "^8.0.3"
+  }
+}
