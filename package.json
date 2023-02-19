@@ -17,6 +17,7 @@
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
     "@commitlint/prompt-cli": "^17.4.4",
-    "husky": "^8.0.3"
+    "husky": "^8.0.3",
+    "pretty-quick": "^3.1.3"
   }
 }
